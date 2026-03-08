@@ -146,3 +146,9 @@ Click Analyze
 
 View AI-based candidate ranking resultsgit add 
 
+
+
+project demo
+https://drive.google.com/file/d/18ukESle4x_wAkSLSncCtLH3jQJV6J06J/view?usp=drive_link
+
+
